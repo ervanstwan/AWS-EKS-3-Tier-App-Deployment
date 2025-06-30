@@ -79,6 +79,7 @@ Then open in your browser.
 ├── terraform/            # Infrastructure code
 ├── helm-chart/           # Helm chart (values, templates)
 └── README.md
+```
 
 🚀 Credits & License
 Built as part of a complete DevOps portfolio project.
