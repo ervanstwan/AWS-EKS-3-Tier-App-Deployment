@@ -73,12 +73,16 @@ kubectl get ingress
 Then open in your browser.
 
 ##### 📂 Project Structure
-
 .
+
 ├── app/                  # Node.js app source code
+
 ├── docker/               # Dockerfile
+
 ├── terraform/            # Infrastructure code
+
 ├── helm-chart/           # Helm chart (values, templates)
+
 └── README.md
 
 🚀 Credits & License
